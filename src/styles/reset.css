@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+li {
+	list-style: none;
+}
+
+.now-day .dateinput .el-input__inner {
+	border: 0;
+	height: 30px;
+	outline: none;
+}
+
+.flux-mid-head .flux-mid-select .el-input__inner {
+	border: 0;
+	height: 21px;
+	outline: none;
+	padding-right: 20px;
+}
+.progress-div .progress .el-progress{
+	margin-top: 5px;
+}
+.el-container .el-menu{
+	border-right: 0;
+}
+.cell{
+	text-align: center;
+}
+.is-active a{
+	color: #00BFFF;
+}
+.lunbo .swiper-container{
+	overflow: visible;
+}
+
