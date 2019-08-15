@@ -27,7 +27,7 @@ test2分支修改了
 npm test
 ```
 ceshi
-
+test2子分支修改了
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 master分支修改
